@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 1,
+    "nome": "Mario",
+    "sobrenome": "Fontana",
+    "detalhes": [
+      {
+        "Setor": "Financeiro",
+        "Cargo": "Analista"
+      },
+      {
+        "Salário": 4000
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "nome": "Maria",
+    "sobrenome": "Siqueira",
+    "detalhes": [
+      {
+        "Setor": "Faturamento",
+        "Cargo": "Analista"
+      },
+      {
+        "Salário": 5000
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "nome": "Augusto",
+    "sobrenome": "Souza",
+    "detalhes": [
+      {
+        "Setor": "RH",
+        "Cargo": "Cordenador"
+      },
+      {
+        "Salário": 8000
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "nome": "Robson",
+    "sobrenome": "Cunha",
+    "detalhes": [
+      {
+        "Setor": "Administrativo",
+        "Cargo": "Analista"
+      },
+      {
+        "Salário": 3000
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "nome": "Cesar",
+    "sobrenome": "Pereira",
+    "detalhes": [
+      {
+        "Setor": "Administrativo",
+        "Cargo": "Gerente"
+      },
+      {
+        "Salário": 10000
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "nome": "João",
+    "sobrenome": "Cavichiolli",
+    "detalhes": [
+      {
+        "Setor": "TI",
+        "Cargo": "DataAnalist"
+      },
+      {
+        "Salário": 10000
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "nome": "Paula",
+    "sobrenome": "Silva",
+    "detalhes": [
+      {
+        "Setor": "Produção",
+        "Cargo": "Auxiliar"
+      },
+      {
+        "Salário": 1500
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "nome": "Silvana",
+    "sobrenome": "Renata",
+    "detalhes": [
+      {
+        "Setor": "Administrativo",
+        "Cargo": "Secretária"
+      },
+      {
+        "Salário": 2000
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "nome": "Pedro",
+    "sobrenome": "Silveira",
+    "detalhes": [
+      {
+        "Setor": "TI",
+        "Cargo": "Analista"
+      },
+      {
+        "Salário": 2000
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "nome": "Ana",
+    "sobrenome": "Vieira",
+    "detalhes": [
+      {
+        "Setor": "Contabilidade",
+        "Cargo": "Analista"
+      },
+      {
+        "Salário": 10000
+      }
+    ]
+  }
+]
